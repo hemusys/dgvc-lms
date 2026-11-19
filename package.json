@@ -1,0 +1,1 @@
+{ "name": "dg-learn", "private": true, "version": "1.0.0", "description": "DG Learn — student learning app concept (demo edition)", "engines": { "node": ">=20" } }
